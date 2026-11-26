@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 Who I Am
+##  Who I Am
 
 ```typescript
 const sparsh = {
@@ -42,7 +42,7 @@ const sparsh = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🥗 EcoBite: An AI powered surplus food marketplace
 
@@ -69,7 +69,7 @@ const sparsh = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -119,7 +119,7 @@ const sparsh = {
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <div align="center">
 
